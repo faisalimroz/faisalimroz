@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Imroz Heemel</h1>
-<h3 align="center">Frontend-focused MERN stack web developer skilled in building responsive, user-friendly applications with React and Tailwind CSS. Dedicated to enhancing user experiences and maintaining high-performance design.</h3>
+<h3 align="center">A MERN stack web developer skilled in building responsive, user-friendly applications with React and Tailwind CSS. Dedicated to enhancing user experiences and maintaining high-performance design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalimroz&label=Profile%20views&color=0e75b6&style=flat" alt="faisalimroz" /> </p>
 
