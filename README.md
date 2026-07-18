@@ -36,10 +36,6 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalimroz&show_icons=true&locale=en&layout=compact" alt="faisalimroz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalimroz&show_icons=true&locale=en" alt="faisalimroz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalimroz&" alt="faisalimroz" /></p>
-
 
 ## Skill
 <p align="center">
