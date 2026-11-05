@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39965B&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Faisal+Imroz+Heemel;Full-Stack+Software+Engineer;Tech+Founder+%40+Synorabyte;Multi-Language+Backend+%26+Frontend+Dev" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39965B&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Faisal+Imroz+Heemel;Full-Stack+Software+Engineer;Multi-Language+Backend+%26+Frontend+Dev" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -13,7 +13,6 @@
 ### 🚀 About Me
 - 🔭 **Building:** Scalable B2B SaaS platforms, custom AI solutions, and high-performance web architectures.
 - ⚡ **Tech Versatility:** Beyond the **MERN Stack (React, Next.js, Node.js)**, I engineer robust backend and mobile systems using **TypeScript, Python, Go, and Kotlin**.
-- 💼 **Entrepreneurship:** Founder & CEO of **Synorabyte**, delivering enterprise-grade software and AI applications.
 - 🌐 **Portfolio:** Check out my work at [faisal-imroz-portfolio.netlify.app](https://faisal-imroz-portfolio.netlify.app/)
 - 📫 **Contact:** Reach out at **faisalimroz49@gmail.com**
 
