@@ -61,11 +61,13 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalimroz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&include_all_commits=true&count_private=true" alt="Faisal's GitHub Stats" />
+  <a href="https://github.com/faisalimroz">
+    <img src="https://github-readme-stats.vercel.app/api?username=faisalimroz&show_icons=true&theme=radical&hide_border=true" alt="Faisal's GitHub Stats" />
+  </a>
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalimroz&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalimroz&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
