@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🔭 **Building:** Scalable B2B SaaS platforms, custom AI solutions, and high-performance web architectures.
-- ⚡ **Tech Versatility:** Beyond the **MERN Stack (React, Next.js, Node.js)**, I engineer robust backend and mobile systems using **TypeScript, Python, Go, and Kotlin**.
+- ⚡ **Engineering Versatility:** I build across the entire stack—utilizing **TypeScript, Python, Go, and Kotlin** alongside modern web frameworks like **React, Next.js, and Node.js**.
 - 🌐 **Portfolio:** Check out my work at [faisal-imroz-portfolio.netlify.app](https://faisal-imroz-portfolio.netlify.app/)
 - 📫 **Contact:** Reach out at **faisalimroz49@gmail.com**
 
